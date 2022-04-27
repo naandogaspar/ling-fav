@@ -1,3 +1,5 @@
+# Fernando Gaspar
+
 # App Fullstack JavaScript com JWT: Linguagens favoritas
 
 Nessa etapa do projeto encontraremos a API de linguagens de programação com autenticação de usuários, que permite cadastrar um novo usuário, logar em um usuário já existente, deslogar um usuário que esteja logado, listar todas as linguagens de programação cadastradas, exibir os detalhes de uma linguagem específica e curtir uma linguagem de programação específica 
