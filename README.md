@@ -1,4 +1,4 @@
-# Fernando Gaspar 2022
+# Fernando Gaspar 202
 
 # App Fullstack JavaScript com JWT: Linguagens favoritas
 
